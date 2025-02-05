@@ -8,8 +8,8 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata = {
-  title: "Buddika Kasun",
-  description: "Portfolio of D.L. Buddika Kasun",
+  title: "Sandeepa Dilshan",
+  description: "Portfolio of P.K.S.Dilshan",
 };
 
 export default function RootLayout({ children }) {
