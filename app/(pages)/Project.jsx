@@ -31,7 +31,7 @@ const Project = () => {
       description: "BIKZIK is a modern, full-stack e-commerce platform that offers seamless shopping experiences. It is built using the latest technologies with features like user authentication, product management, and cloud image storage.",
       link: "https://bikzik.vercel.app",
       git: "https://github.com/Buddika-Kasun/BikzIK_E-commarce_Web-MERN-"
-    }, */
+    }, 
     {
       title: "My Portfolio",
       image: "/assets/projects/Portfolio.png",
@@ -39,7 +39,7 @@ const Project = () => {
       link: "https://sandeepa.vercel.app", 
       git: "https://github.com/Buddika-Kasun/Portfolio",
       figma: "a", 
-    },    
+    }, */   
     {
       title: "UniCore ERP System",
       image: "/assets/projects/Unicore.png",
