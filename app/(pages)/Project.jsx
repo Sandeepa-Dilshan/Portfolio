@@ -41,9 +41,9 @@ const Project = () => {
       figma: "a", 
     }, */   
     {
-      title: "UniCore ERP System",
+      title: "Portfolio Design",
       image: "/assets/projects/Unicore.png",
-      description: "UniCore is a powerful ERP system built with Next.js, React, and MongoDB, designed to streamline university management with modules for resource utilization, reservations, user profiles, and administrative operations.",
+      description: "UniCorePortfolio Website is a modern and attractive design created using Figma. It shows my skills in UI/UX design, web development, and branding. The design has a dark theme with smooth animations and works well on both desktop and mobile devices is a powerful ERP system built with Next.js, React, and MongoDB, designed to streamline university management with modules for resource utilization, reservations, user profiles, and administrative operations.",
       link: "",    
       git: "https://www.figma.com/design/QueP9sbMw2aOjhXAFfxVb1/Untitled?node-id=1-2&t=vgWTQNORRnIzhPrg-0",
       figma: "https://www.figma.com/design/QueP9sbMw2aOjhXAFfxVb1/Untitled?node-id=1-2&t=vgWTQNORRnIzhPrg-0", 
