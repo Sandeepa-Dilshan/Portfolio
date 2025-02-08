@@ -45,15 +45,15 @@ const Project = () => {
       image: "/assets/projects/Unicore.png",
       description: "UniCore is a powerful ERP system built with Next.js, React, and MongoDB, designed to streamline university management with modules for resource utilization, reservations, user profiles, and administrative operations.",
       link: "",    
-      git: "https://github.com/Buddika-Kasun/UMS_Unicore_ERP-NextJs-",
-      figma: "a", 
+      git: "https://www.figma.com/design/QueP9sbMw2aOjhXAFfxVb1/Untitled?node-id=1-2&t=vgWTQNORRnIzhPrg-0",
+      figma: "https://www.figma.com/design/QueP9sbMw2aOjhXAFfxVb1/Untitled?node-id=1-2&t=vgWTQNORRnIzhPrg-0", 
     },
     {
       title: "Supplement Shop Admin",
       image: "/assets/projects/SupplementAdmin.png",
       description: "A modern admin dashboard for managing a supplement shop. Built with Next.js 14, MongoDB, and Tailwind CSS, it features CRUD operations for categories, subcategories, products, and admin users, with secure OAuth authentication.",
       link: "",
-      git: "https://github.com/Buddika-Kasun/Suppliment_shop_Admin_Web-NextJs-",
+      git: "https://www.figma.com/design/QueP9sbMw2aOjhXAFfxVb1/Untitled?node-id=1-2&t=vgWTQNORRnIzhPrg-0",
       figma: "a", 
     },
     {
@@ -61,7 +61,7 @@ const Project = () => {
       image: "/assets/projects/SupplementClient.png",
       description: "A sleek and responsive supplement store built with Next.js 14, MongoDB, and Styled Components. Features include product listings, category-based filtering, featured product banners, and a shopping cart for a seamless user experience.",
       link: "",
-      git: "https://github.com/Buddika-Kasun/Suppliment_shop_User_Web-NextJs-",
+      git: "https://www.figma.com/design/QueP9sbMw2aOjhXAFfxVb1/Untitled?node-id=1-2&t=vgWTQNORRnIzhPrg-0",
       figma: "a", 
     },
   ];
