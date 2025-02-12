@@ -42,14 +42,14 @@ const Project = () => {
     }, */   
     {
       title: "Portfolio Design",
-      image: "/assets/projects/Unicore.png",
-      description: "UniCorePortfolio Website is a modern and attractive design created using Figma. It shows my skills in UI/UX design, web development, and branding. The design has a dark theme with smooth animations and works well on both desktop and mobile devices is a powerful ERP system built with Next.js, React, and MongoDB, designed to streamline university management with modules for resource utilization, reservations, user profiles, and administrative operations.",
+      image: "/assets/projects/myPortfolio.jpg",
+      description: "This is my personal portfolio UI design created in Figma. It showcases my skills in UI/UX design, typography, layout structuring, and responsive web design. The dark mode theme gives a sleek look, and the interactive elements ensure a smooth user experience.",
       link: "",    
       git: "https://www.figma.com/design/QueP9sbMw2aOjhXAFfxVb1/Untitled?node-id=1-2&t=vgWTQNORRnIzhPrg-0",
       figma: "https://www.figma.com/design/QueP9sbMw2aOjhXAFfxVb1/Untitled?node-id=1-2&t=vgWTQNORRnIzhPrg-0", 
     },
-    {
-      title: "Supplement Shop Admin",
+    /*{
+      title: "UniCore Univercity management System",
       image: "/assets/projects/SupplementAdmin.png",
       description: "A modern admin dashboard for managing a supplement shop. Built with Next.js 14, MongoDB, and Tailwind CSS, it features CRUD operations for categories, subcategories, products, and admin users, with secure OAuth authentication.",
       link: "",
@@ -63,7 +63,7 @@ const Project = () => {
       link: "",
       git: "https://www.figma.com/design/QueP9sbMw2aOjhXAFfxVb1/Untitled?node-id=1-2&t=vgWTQNORRnIzhPrg-0",
       figma: "a", 
-    },
+    },*/
   ];
 
   const { scrollYProgress } = useCustomScroll({

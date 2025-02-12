@@ -72,8 +72,9 @@ const AboutMeSubSection = () => {
       </motion.h1>
       <p className="py-4 opacity-80">
         <TextShadingView>
-          A passionate software engineering undergraduate with a love for
-          technology, web development, and SE projects.
+        I am a dedicated and creative undergraduate specializing in Multimedia Technology,
+        with a strong passion for UI/UX design, game development, graphic design, 3D modeling, 
+        and video editing. I love crafting engaging digital experiences that blend aesthetics with functionality.
         </TextShadingView>
       </p>
       <div className="grid lg:grid-cols-2 gap-4 p-4">

@@ -11,7 +11,7 @@ const EducationSubSection = () => {
       "Bachelor of Information and Communication Technology (BICT) (Hons.)",
       year: "Expected 2027",
       description:
-      "Currently pursuing a Bachelor of Information and Communication Technology (BICT) (Hons.) at the University of Sri Jayewardenepura. Acquired comprehensive knowledge and skills in areas such as advanced mathematics, physics, statistics, data structures, cybersecurity, networking, and programming Specialy Game Development, Human Computer Interaction, . Proficient in multiple programming languages including C, C#, C++, Java, Python, SQL, and MongoDB, as well as front-end and back-end technologies like React, JavaScript, HTML, and CSS. Gained experience in IoT, machine learning, data mining, multimedia systems, and more.",
+      "I am a passionate and dedicated multimedia professional currently pursuing a Bachelor of Information and Communication Technology (BICT) (Hons.) at the University of Sri Jayewardenepura. My primary focus is on UI/UX design, game development, 3D modeling, digital marketing, graphic design, and video editing. I aim to create intuitive user experiences and engaging digital content through a combination of creativity and technical skills. I have experience in programming (C, C#, C++, Java), web development (HTML, CSS, JavaScript, React), and various design tools. I am constantly exploring new trends and technologies to enhance my skills and deliver high-quality work that resonates with users. My goal is to merge my passion for design and technology to craft seamless, innovative, and visually appealing digital experiences.";
       direct: 'left',
     },
     {
@@ -25,7 +25,7 @@ const EducationSubSection = () => {
       title: "GCE Ordinary Level (O/L)",
       year: 2017,
       description:
-        "Achieved 6 A's, 2 B's, and 1 S while studying at Diyagama M.V, Kalutara. Main subjects with distinctions (A's) include Mathematics, Science, ICT and English, showcasing strong analytical and linguistic skills.",
+        "Achieved 6 A's, 2 B's, and 1 S while studying at Diyagama M.V, Kalutara. Main subjects with distinctions (A's) include Mathematics and Science, showcasing strong analytical and linguistic skills.",
       direct: 'left',
     },
   ];
