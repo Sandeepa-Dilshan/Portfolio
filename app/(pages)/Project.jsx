@@ -48,18 +48,18 @@ const Project = () => {
       git: "https://www.figma.com/design/QueP9sbMw2aOjhXAFfxVb1/Untitled?node-id=1-2&t=vgWTQNORRnIzhPrg-0",
       figma: "https://www.figma.com/design/QueP9sbMw2aOjhXAFfxVb1/Untitled?node-id=1-2&t=vgWTQNORRnIzhPrg-0", 
     },
-    /*{
-      title: "UniCore Univercity management System",
+    {
+      title: "UniCore - University Management System UI",
       image: "/assets/projects/SupplementAdmin.png",
-      description: "A modern admin dashboard for managing a supplement shop. Built with Next.js 14, MongoDB, and Tailwind CSS, it features CRUD operations for categories, subcategories, products, and admin users, with secure OAuth authentication.",
+      description: "I designed the UniCore University Management System UI to provide an efficient and user-friendly experience for university-wide management. The interface focuses on intuitive navigation, modern UI/UX principles, and seamless functionality to enhance administrative tasks, student collaboration, and overall system accessibility.",
       link: "",
       git: "https://www.figma.com/design/QueP9sbMw2aOjhXAFfxVb1/Untitled?node-id=1-2&t=vgWTQNORRnIzhPrg-0",
-      figma: "a", 
+      figma: "https://www.figma.com/design/ZQyTdJcYPrpWdSJiLLE0oU/LoginUIConcept-(Community)?node-id=0-1&p=f&t=y85XweCLUyqd7qHL-0", 
     },
-    {
-      title: "Supplement Shop Client",
+    /*{
+      title: "Simple Coin Collection Game",
       image: "/assets/projects/SupplementClient.png",
-      description: "A sleek and responsive supplement store built with Next.js 14, MongoDB, and Styled Components. Features include product listings, category-based filtering, featured product banners, and a shopping cart for a seamless user experience.",
+      description: "This is a simple coin collection game developed in Unity. The objective is to navigate the environment and collect coins while showcasing smooth movement and interaction mechanics. This project highlights my skills in game development, C# scripting, physics-based movement, and Unity engine functionalities. The game provides an engaging experience with responsive controls and a basic reward system.",
       link: "",
       git: "https://www.figma.com/design/QueP9sbMw2aOjhXAFfxVb1/Untitled?node-id=1-2&t=vgWTQNORRnIzhPrg-0",
       figma: "a", 
