@@ -3,6 +3,7 @@ import { Button } from "./ui/button";
 import MotionBtn from "./MotionBtn";
 
 const CVBtn = () => {
+//function CVBtn () {
   return (
     <MotionBtn>
       <a href="/assets/CV/CV.pdf" download="Sandeepa_CV.pdf">
