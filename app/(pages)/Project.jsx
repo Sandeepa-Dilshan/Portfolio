@@ -56,14 +56,14 @@ const Project = () => {
       git: "https://www.figma.com/design/QueP9sbMw2aOjhXAFfxVb1/Untitled?node-id=1-2&t=vgWTQNORRnIzhPrg-0",
       figma: "https://www.figma.com/design/ZQyTdJcYPrpWdSJiLLE0oU/LoginUIConcept-(Community)?node-id=0-1&p=f&t=y85XweCLUyqd7qHL-0", 
     },
-    /*{
+    {
       title: "Simple Coin Collection Game",
       image: "/assets/projects/SupplementClient.png",
-      description: "This is a simple coin collection game developed in Unity. The objective is to navigate the environment and collect coins while showcasing smooth movement and interaction mechanics. This project highlights my skills in game development, C# scripting, physics-based movement, and Unity engine functionalities. The game provides an engaging experience with responsive controls and a basic reward system.",
+      description: "Designed PinoCuro, a carpenter project management app, to help woodworkers efficiently manage their projects. The UI focuses on a minimalistic and user-friendly experience with features like project creation, tracking, and completion. Used Figma for wireframing, prototyping, and final UI design, ensuring a smooth user flow and intuitive navigation",
       link: "",
       git: "https://www.figma.com/design/QueP9sbMw2aOjhXAFfxVb1/Untitled?node-id=1-2&t=vgWTQNORRnIzhPrg-0",
-      figma: "a", 
-    },*/
+      figma: "https://www.figma.com/design/TRN6EqRPiEyiPCACcNygLM/PinoCuro?node-id=5-2&p=f&t=zNxqwxBIJe7ageBh-0", 
+    },
   ];
 
   const { scrollYProgress } = useCustomScroll({
