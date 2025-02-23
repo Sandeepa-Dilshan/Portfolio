@@ -53,7 +53,7 @@ const Project = () => {
       image: "/assets/projects/Unicore.jpg",
       description: "I designed the UniCore University Management System UI to provide an efficient and user-friendly experience for university-wide management. The interface focuses on intuitive navigation, modern UI/UX principles, and seamless functionality to enhance administrative tasks, student collaboration, and overall system accessibility.",
       link: "",
-      git: "https://www.figma.com/design/QueP9sbMw2aOjhXAFfxVb1/Untitled?node-id=1-2&t=vgWTQNORRnIzhPrg-0",
+      git: "https://www.figma.com/design/ZQyTdJcYPrpWdSJiLLE0oU/LoginUIConcept-(Community)?node-id=0-1&p=f&t=y85XweCLUyqd7qHL-0",
       figma: "https://www.figma.com/design/ZQyTdJcYPrpWdSJiLLE0oU/LoginUIConcept-(Community)?node-id=0-1&p=f&t=y85XweCLUyqd7qHL-0", 
     },
     {
