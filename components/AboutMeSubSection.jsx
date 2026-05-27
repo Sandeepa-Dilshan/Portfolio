@@ -24,7 +24,7 @@ const AboutMeSubSection = () => {
     },
     {
       title: "Phone",
-      description: "+94 78 130 7931",
+      description: "+94 70 113 3231",
     },
     {
       title: "Email",
