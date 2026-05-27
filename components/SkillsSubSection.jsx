@@ -22,6 +22,10 @@ import { SiPostman } from "react-icons/si";
 import { FaUnity } from "react-icons/fa";
 import { SiAutodeskmaya } from "react-icons/si";
 import { RiBlenderLine } from "react-icons/ri";
+import { SiAdobePhotoshop } from "react-icons/si";
+import { SiAdobeIllustrator } from "react-icons/si";
+import { SiAdobeAftereffects } from "react-icons/si";
+import { SiAdobePremierepro } from "react-icons/si";
 import { FaFigma } from "react-icons/fa";
 
 
