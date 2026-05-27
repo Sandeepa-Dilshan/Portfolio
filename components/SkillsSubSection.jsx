@@ -22,10 +22,6 @@ import { SiPostman } from "react-icons/si";
 import { FaUnity } from "react-icons/fa";
 import { SiAutodeskmaya } from "react-icons/si";
 import { RiBlenderLine } from "react-icons/ri";
-import { SiAdobephotoshop } from "react-icons/si";
-import { SiAdobeillustrator } from "react-icons/si";
-import { SiAdobeaftereffects } from "react-icons/si";
-import { SiAdobepremierepro } from "react-icons/si";
 import { FaFigma } from "react-icons/fa";
 
 
@@ -50,19 +46,19 @@ const SkillsSubSection = () => {
     },
     {
       name: "Adobe Photoshop",
-      icon: <SiAdobephotoshop className="w-full h-full p-3" />,
+      icon: <SiAdobePhotoshop className="w-full h-full p-3" />,
     },
     {
       name: "Adobe Illustrator",
-      icon: <SiAdobeillustrator className="w-full h-full p-3" />,
+      icon: <SiAdobeIllustrator className="w-full h-full p-3" />,
     },
     {
       name: "Adobe After Effects",
-      icon: <SiAdobeaftereffects className="w-full h-full p-3" />,
+      icon: <SiAdobeAftereffects className="w-full h-full p-3" />,
     },
     {
       name: "Adobe Premiere Pro",
-      icon: <SiAdobepremierepro className="w-full h-full p-3" />,
+      icon: <SiAdobePremierepro className="w-full h-full p-3" />,
     },
     {
       name: "Figma",
