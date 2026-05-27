@@ -22,16 +22,21 @@ import { SiPostman } from "react-icons/si";
 import { FaUnity } from "react-icons/fa";
 import { SiAutodeskmaya } from "react-icons/si";
 import { RiBlenderLine } from "react-icons/ri";
-//import { SiAdobePhotoshop } from "react-icons/si";
-//import { SiAdobeIllustrator } from "react-icons/si";
-//import { SiAdobeAftereffects } from "react-icons/si";
-//import { SiAdobePremierePro } from "react-icons/si";
+//import { SiAdobephotoshop } from "react-icons/si";
+//import { SiAdobeillustrator } from "react-icons/si";
+//import { SiAdobeaftereffects } from "react-icons/si";
+//import { SiAdobepremierepro } from "react-icons/si";
 import { FaFigma } from "react-icons/fa";
-
+import { DiPhotoshop } from "react-icons/di";
+import { DiIllustrator } from "react-icons/di";
+import { TbBrandAdobeAfterEffect } from "react-icons/tb";
 
 import { animate, motion } from "framer-motion";
 import isMobile from "is-mobile";
 import React from "react";
+
+import { CIcon } from '@coreui/icons-react';
+import { cibAdobePremiere, cibAdobeAfterEffects } from '@coreui/icons';
 
 const SkillsSubSection = () => {
   
@@ -48,24 +53,24 @@ const SkillsSubSection = () => {
       name: "Blender",
       icon: <RiBlenderLine className="w-full h-full p-4" />,
     },
-    /*
     {
       name: "Adobe Photoshop",
-      icon: <SiAdobePhotoshop className="w-full h-full p-3" />,
+      icon: <DiPhotoshop className="w-full h-full p-3" />,
     },
     {
-      name: "Adobe Illustrator",
-      icon: <SiAdobeIllustrator className="w-full h-full p-3" />,
+       name: "Adobe Illustrator",
+       icon: <DiIllustrator className="w-full h-full p-3" />,
     },
     {
-      name: "Adobe After Effects",
-      icon: <SiAdobeAftereffects className="w-full h-full p-3" />,
+       name: "Adobe After Effects",
+       //icon: <TbBrandAdobeAfterEffect className="w-full h-full p-3" />,
+       icon: <CIcon icon={cibAdobeAfterEffects} className="w-full h-full p-4" />,
     },
     {
-      name: "Adobe Premiere Pro",
-      icon: <SiAdobePremierePro className="w-full h-full p-3" />,
+       name: "Adobe Premiere Pro",
+       //icon: <SiAdobepremierepro className="w-full h-full p-3" />,
+       icon: <CIcon icon={cibAdobePremiere} size="lg" className="w-full h-full p-4"/>,
     },
-    */
     {
       name: "Figma",
       icon: <FaFigma className="w-full h-full p-3" />,
