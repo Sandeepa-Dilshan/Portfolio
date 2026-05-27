@@ -25,7 +25,7 @@ import { RiBlenderLine } from "react-icons/ri";
 import { SiAdobePhotoshop } from "react-icons/si";
 import { SiAdobeIllustrator } from "react-icons/si";
 import { SiAdobeAftereffects } from "react-icons/si";
-import { SiAdobePremierepro } from "react-icons/si";
+import { SiAdobePremierePro } from "react-icons/si";
 import { FaFigma } from "react-icons/fa";
 
 
@@ -62,7 +62,7 @@ const SkillsSubSection = () => {
     },
     {
       name: "Adobe Premiere Pro",
-      icon: <SiAdobePremierepro className="w-full h-full p-3" />,
+      icon: <SiAdobePremierePro className="w-full h-full p-3" />,
     },
     {
       name: "Figma",
