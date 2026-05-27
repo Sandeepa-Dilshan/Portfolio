@@ -6,7 +6,7 @@ const CVBtn = () => {
 //function CVBtn () {
   return (
     <MotionBtn>
-      <a href="/assets/CV/CV.pdf" download="Sandeepa_CV.pdf">
+      <a href="/assets/CV/Sandeepa_Dilshan_CV.pdf" download="Sandeepa_CV.pdf">
         <Button
           variant="outline"
           size="lg"
